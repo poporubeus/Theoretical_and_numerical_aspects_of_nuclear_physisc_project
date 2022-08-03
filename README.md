@@ -5,7 +5,19 @@ In this project we solve the Bateman's equations for a decay process that involv
 The poisoning function represents how much Xenon-135 grows by  Iodine-135 decay. If the thermal neutron flux $\phi$ is modified we can observe many curves one inside the other.
 
 ## Numerical methods
-The method chosen for this code are fourth-order Runge-Kutta and the matrix exponential method.
+The methods chosen for this code are fourth-order Runge-Kutta and the matrix exponential method.
+Runge-Kutta is an iterative method to compute the solution of a system of ODE;
+matrix exponential method does the same using a costant coefficient matrix and arrays inside which collecting the equations.
 
+## Plots
+The plots inserted here want to show the different poisoning curves coming from the implementation of the two different methods.
 
+## Math formulas
+All of the math formulas are collected into 
+
+## Python libraries
+*numpy;
+*tabulate;
+*matplotlib.pyplot;
+*scipy.linalg.expm.
 
