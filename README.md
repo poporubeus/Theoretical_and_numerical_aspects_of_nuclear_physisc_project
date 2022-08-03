@@ -2,7 +2,9 @@
 Implementation of Bateman equation using Runge-Kutta method and matrix exponential method.
 
 In this project we solve the Bateman's equations for a decay process that involves Iodine-135 and Xenon-135 numerically. In particular, Iodine-135 decays into Xenon-135 and the main process we see is a poison growing. 
-The poisoning function ![first equation](https://latex.codecogs.com/png.image?\dpi{110}%20p%20=%20-%20\frac{\sigma_{aX}}{\Sigma_{f}\nu}X) represents how much Xenon-135 grows by  Iodine-135 decay. If the thermal neutron flux $\phi$ is modified we can observe many curves one inside the other. 
+The poisoning function
+![first equation](https://latex.codecogs.com/png.image?\dpi{110}%20p%20=%20-%20\frac{\sigma_{aX}}{\Sigma_{f}\nu}X)
+represents how much Xenon-135 grows by  Iodine-135 decay. If the thermal neutron flux $\phi$ is modified we can observe many curves one inside the other. 
 
 The method chosen for this code are fourth-order Runge-Kutta method and the matrix exponential method.
 
