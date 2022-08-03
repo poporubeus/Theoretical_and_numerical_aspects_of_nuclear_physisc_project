@@ -11,6 +11,7 @@ matrix exponential method does the same using a costant coefficient matrix and a
 
 ## Plots
 The plots inserted here want to show the different poisoning curves coming from the implementation of the two different methods.
+Poisoning plot coming from matrix exponential method: [[/images/
 
 ## Math formulas
 All of the math formulas are collected into 
