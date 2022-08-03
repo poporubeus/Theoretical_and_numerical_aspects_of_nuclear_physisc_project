@@ -25,5 +25,5 @@ All of the math formulas are collected into the presentation file .pdf inserted 
 ## Bibliography 
 The following link shows the reference I used to develop the project: 
 1. https://www.matec-conferences.org/articles/matecconf/pdf/2018/45/matecconf_icemp2018_01004.pdf
-2. file:///C:/Users/checc/AppData/Local/Temp/Rar$DIa21508.48901/Masterproef_Maren_Vranckx.pdf.
+2. https://publications.sckcen.be/portal/files/1169036/Masterproef_Maren_Vranckx.pdf.
 
