@@ -16,8 +16,8 @@ The plots inserted here want to show the different poisoning curves coming from 
 All of the math formulas are collected into 
 
 ## Python libraries
-*numpy
-*tabulate
-*matplotlib.pyplot
-*scipy.linalg.expm
+1. numpy;
+2. matplotlib.pyplot;
+3. scipy.linalg.expm;
+4. tabulate.
 
